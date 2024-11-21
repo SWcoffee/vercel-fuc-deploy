@@ -3,7 +3,7 @@
 	"rewrites": [
 		{
 			"source": "/(.*)",
-			"destination": "https://token.654333.xyz/$1"
+			"destination": "https://refresh-token.mycoffee.workers.dev/$1"
 		}
 	]
 }
